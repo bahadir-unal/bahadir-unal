@@ -1,16 +1,25 @@
-### Hi there 👋
+<div align="center" style="margin: 20px">
+  <img src="https://www.macleans.ca/wp-content/uploads/2019/11/BABY-YODA-MANDALORIAN-NOV19-810x445.jpg">
+</div>
 
-<!--
-**bahadir-unal/bahadir-unal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi! Welcome to my github page. 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Hakan Ünal. Software Engineer
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hakan-unal)
+
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hakan-unal&show_icons=true)
+
+## Graduation
+
+Computer Engineering Degree |  [Cukurova University](https://www.cu.edu.tr/)
+
+
+
+
+## Contact Me 📫
+
+You can find and get touch with me via Website!
+
+(https://www.hakanunal.com)
