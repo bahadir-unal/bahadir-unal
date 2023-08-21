@@ -5,15 +5,15 @@
 ### Hi! Welcome to my github page. 👋
 
 
-I'm Hakan Ünal. Software Engineer
+I'm Bahadır Ünal. Front-End Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hakan-unal)
+![Profile Views](https://komarev.com/ghpvc/?username=bahadir-unal)
 
-![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hakan-unal&show_icons=true)
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bahadir-unal&show_icons=true)
 
 ## Graduation
 
-Computer Engineering Degree |  [Cukurova University](https://www.cu.edu.tr/)
+Electronics and Communication Engineering | Kocaeli University
 
 
 
@@ -22,4 +22,4 @@ Computer Engineering Degree |  [Cukurova University](https://www.cu.edu.tr/)
 
 You can find and get touch with me via Website!
 
-(https://www.hakanunal.com)
+https://bahadir-unal.netlify.app/
